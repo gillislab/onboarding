@@ -1,7 +1,7 @@
 # On-boarding
 
 Hello and welcome! 
-This document is a collection of the steps to get setup in the lab, along with some useful tools and tasks that the lab is interested in. For a collection of How-to's, see [here](https://sarbal.github.io/howdoI). Lab reading background can be found [here](https://gillislab.github.io/background/) and publications [here](https://gillislab.github.io/publications/). 
+This document is a collection of the steps to get setup in the lab, along with some useful tools and tasks that the lab is interested in. For a collection of How-to's, see [here](https://gillislab.github.io/howdoI). Lab reading background can be found [here](https://gillislab.github.io/background/) and publications [here](https://gillislab.github.io/publications/). 
 
 
 # Getting started
@@ -216,7 +216,7 @@ List of all tools [here](https://www.scrna-tools.org). Some key tools include [S
 
 ### Alignment tools 
 
-https://sarbal.github.io/howdoI/workflows/howtos_alignment.html
+https://gillislab.github.io/howdoI/workflows/howtos_alignment.html
 
 #### STAR
 Github [here](https://github.com/alexdobin/STAR) and [manual](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf). 
