@@ -31,7 +31,7 @@ These are the local servers that can only be accessed within the lab (or through
 ### Local servers
 - dactyl.cshl.edu
 - tyrone.cshl.edu
-- rugen<1-6>.cshl.edu
+- rugen<1-12>.cshl.edu
 
 ### Web server
 - milton.cshl.edu
